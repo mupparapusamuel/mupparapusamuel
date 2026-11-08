@@ -4,7 +4,6 @@
 
 <h1 align="center">Samuel Mupparapu</h1>
 <p align="center"><strong>Project Lead | Enterprise Application Development</strong></p>
-<p align="center">London, United Kingdom</p>
 
 ## Professional profile
 
@@ -21,28 +20,16 @@ I approach application delivery as one connected lifecycle: understand the need,
 
 The goal is to connect these capabilities into cohesive applications—not isolated technologies—with attention to secure access, useful workflows, maintainability, and outcomes that matter to users and stakeholders.
 
-## Experience
-
-**HCLTech — Project Lead**  
-*September 2022 – April 2026 | Bengaluru, India*  
-*World Bank Group engagements (IBRD, IDA, IFC, and MIGA)*
-
-- Designed and delivered secure data and application solutions using Azure SQL, Cosmos DB, Azure Data Lake, and Databricks.
-- Developed backend services and REST APIs with C#, ASP.NET Core, .NET, and Python; integrated Azure Functions and Data Factory.
-- Integrated Azure OpenAI, Azure Cognitive Search, Databricks AI Search, Genie, and MCP to support contextual retrieval and AI-enabled workflows.
-- Contributed to solution architecture, identity and governance, monitoring, performance optimization, and high availability / disaster recovery planning.
-- Supported automated delivery through Azure DevOps and GitHub CI/CD, alongside code reviews, debugging, and cross-functional collaboration.
-
 ## Certifications
 
-- Databricks Certified Context Engineer Associate
-- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
-- Microsoft Certified: Azure Developer Associate (AZ-204)
-- Microsoft Certified: Azure AI Engineer Associate (AI-102)
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Microsoft Certified: Azure Database Administrator Associate (DP-300)
-- Microsoft Certified: Azure Data Engineer Associate (DP-203)
-- Microsoft Certified: DevOps Engineer Expert (AZ-400)
+- [Databricks Certified Context Engineer Associate](https://www.databricks.com/learn/certification/context-engineer-associate)
+- [Microsoft Certified: Azure Solutions Architect Expert (AZ-305)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/)
+- [Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/)
+- [Microsoft Certified: Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
+- [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
+- [Microsoft Certified: Azure Database Administrator Associate (DP-300)](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/)
+- [Microsoft Certified: Azure Data Engineer Associate (DP-203)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)
+- [Microsoft Certified: DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/)
 
 ---
 
