@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mupparapusamuel/mupparapusamuel/main/assets/profile-banner.svg" alt="Cloud and AI engineering: enterprise platforms, applied AI, and technical leadership" width="100%" />
+  <img src="https://raw.githubusercontent.com/mupparapusamuel/mupparapusamuel/main/assets/profile-banner.svg" alt="Enterprise application development and project leadership" width="100%" />
 </p>
 
 <h1 align="center">Samuel Mupparapu</h1>
-<p align="center"><strong>Project Lead | Cloud &amp; AI Engineering</strong></p>
+<p align="center"><strong>Project Lead | Enterprise Application Development</strong></p>
 <p align="center">London, United Kingdom</p>
-<p align="center">Enterprise cloud architecture · Data platforms · Generative and agentic AI</p>
+<p align="center">Enterprise Application Development · Project Leadership</p>
 
 ## Professional profile
 
