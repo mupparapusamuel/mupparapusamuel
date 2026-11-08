@@ -1,17 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Enterprise application development and project leadership</title>
-  <desc id="desc">A professional navy banner with subtle grid lines and circuit paths representing enterprise application development and project leadership.</desc>
+  <desc id="desc">A futuristic enterprise application platform represented by connected interface, cloud, data, security, and delivery nodes, alongside the title Enterprise Application Development and Project Lead.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081426"/><stop offset="1" stop-color="#12345a"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8dc8ff" stroke-opacity=".08" stroke-width="1"/></pattern>
-    <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#45d6c5"/><stop offset="1" stop-color="#7caeff"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071321"/><stop offset=".55" stop-color="#0c2040"/><stop offset="1" stop-color="#102d50"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#1c7d9a" stop-opacity=".32"/><stop offset="1" stop-color="#0b1c34" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#4de0ce"/><stop offset="1" stop-color="#7baeff"/></linearGradient>
+    <linearGradient id="hub" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#153d63"/><stop offset="1" stop-color="#112743"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9bd5ff" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
   </defs>
-  <rect width="1200" height="300" rx="24" fill="url(#bg)"/><rect width="1200" height="300" rx="24" fill="url(#grid)"/>
-  <g fill="none" stroke="url(#accent)" stroke-opacity=".72" stroke-width="2" transform="translate(100 0)"><path d="M760 48h110v45h88v-32h154"/><path d="M790 142h90v-38h124v52h108"/><path d="M720 226h154v-44h105v36h130"/><path d="M930 48v35m64 59v-38m-120 78v-25m185 83v-47"/></g>
-  <g fill="#45d6c5" transform="translate(100 0)"><circle cx="870" cy="48" r="4"/><circle cx="1112" cy="61" r="4"/><circle cx="880" cy="142" r="4"/><circle cx="1112" cy="156" r="4"/><circle cx="874" cy="226" r="4"/><circle cx="1109" cy="218" r="4"/></g>
-  <g fill="none" stroke="#8dc8ff" stroke-opacity=".3" transform="translate(100 0)"><circle cx="1010" cy="145" r="96"/><circle cx="1010" cy="145" r="72"/></g>
-  <text x="72" y="116" fill="#f2f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="5">SAMUEL MUPPARAPU</text>
-  <text x="68" y="178" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">ENTERPRISE APPLICATION DEVELOPMENT</text>
-  <rect x="72" y="207" width="110" height="4" rx="2" fill="url(#accent)"/>
-  <text x="72" y="246" fill="#bdd4ed" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="1">PROJECT LEAD</text>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/><rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <ellipse cx="950" cy="160" rx="260" ry="190" fill="url(#glow)" filter="url(#soft)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2" stroke-opacity=".62">
+    <path d="M735 76h95v54h52M735 244h95v-54h52M1020 130h56v-48h72M1020 190h56v48h72"/>
+    <path d="M895 160H820v-30m200 30h-80M950 110V82m0 156v-28" stroke-opacity=".38"/>
+    <circle cx="950" cy="160" r="100" stroke-dasharray="2 10" stroke-opacity=".28"/><circle cx="950" cy="160" r="132" stroke-dasharray="1 12" stroke-opacity=".18"/>
+  </g>
+  <g fill="#53dece" stroke="#9cf4e8" stroke-width="1"><circle cx="830" cy="76" r="4"/><circle cx="830" cy="244" r="4"/><circle cx="1148" cy="82" r="4"/><circle cx="1148" cy="238" r="4"/><circle cx="895" cy="160" r="4"/><circle cx="1020" cy="160" r="4"/></g>
+  <g transform="translate(950 160)"><circle r="56" fill="#071525" stroke="url(#line)" stroke-width="2"/><circle r="46" fill="url(#hub)" stroke="#8edcff" stroke-opacity=".26"/><rect x="-20" y="-17" width="40" height="34" rx="5" fill="none" stroke="#d7f4ff" stroke-width="2"/><path d="M-20-7h40M-12-12h2m5 0h2m5 0h2M-11 0h10m-10 7h22" fill="none" stroke="#59ddcf" stroke-width="2" stroke-linecap="round"/><circle r="68" fill="none" stroke="#54d9d0" stroke-opacity=".18"/></g>
+  <g fill="#0c2340" stroke="#7acbff" stroke-width="1.5"><rect x="852" y="104" width="44" height="44" rx="12"/><rect x="852" y="172" width="44" height="44" rx="12"/><rect x="1068" y="60" width="44" height="44" rx="12"/><rect x="1068" y="216" width="44" height="44" rx="12"/><rect x="928" y="38" width="44" height="44" rx="12"/><rect x="928" y="238" width="44" height="44" rx="12"/></g>
+  <g fill="none" stroke="#bceaff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M864 117h9l-5 9 10 1-12 9 3-8-9-1z"/><ellipse cx="874" cy="184" rx="10" ry="4"/><path d="M864 184v10c0 5 20 5 20 0v-10m-20 5c0 5 20 5 20 0"/><path d="M1080 80c0-5 4-9 9-9 4 0 7 2 8 6 5-1 9 3 9 7 0 4-3 7-8 7h-16c-4 0-7-3-7-6 0-3 2-5 5-5z"/><path d="M1080 239h19m-7-7 7 7-7 7m-12-20v26"/><path d="M940 51h20v18h-20zM944 47h12m-12 26h12"/><path d="M939 260h22m-18-6-6 6 6 6m14-12 6 6-6 6"/></g>
+  <text x="72" y="104" fill="#9bd9ee" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="4">SAMUEL MUPPARAPU</text>
+  <text x="68" y="158" fill="#f5f9ff" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="700" letter-spacing=".3">ENTERPRISE APPLICATION</text>
+  <text x="68" y="196" fill="#f5f9ff" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="700" letter-spacing=".3">DEVELOPMENT</text>
+  <rect x="72" y="220" width="92" height="3" rx="1.5" fill="url(#line)"/><text x="72" y="257" fill="#c6d9ef" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="3">PROJECT LEAD</text>
 </svg>
