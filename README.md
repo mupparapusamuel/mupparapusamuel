@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mupparapusamuel/mupparapusamuel/main/assets/profile-banner.svg" alt="Enterprise Application Development and Project Lead, illustrated as an integrated enterprise platform" width="100%" />
+  <img src="https://raw.githubusercontent.com/mupparapusamuel/mupparapusamuel/main/assets/enterprise-project-lead-banner.svg" alt="Enterprise Application Development and Project Lead, illustrated as an integrated enterprise platform" width="100%" />
 </p>
 
 <h1 align="center">Samuel Mupparapu</h1>
