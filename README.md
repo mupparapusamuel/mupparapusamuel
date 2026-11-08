@@ -2,12 +2,8 @@
   <img src="https://raw.githubusercontent.com/mupparapusamuel/mupparapusamuel/main/assets/enterprise-project-lead-banner.svg" alt="Enterprise Application Development and Project Lead, illustrated as an integrated enterprise platform" width="100%" />
 </p>
 
-<h1 align="center">Samuel Mupparapu</h1>
-<p align="center"><strong>Project Lead | Enterprise Application Development</strong></p>
 
-## Professional profile
 
-Project Lead and technology professional focused on building enterprise applications that bring business workflows, APIs, cloud services, data platforms, and AI capabilities together. I combine hands-on engineering across Azure, .NET, Python, and Databricks with solution design, security, governance, and delivery leadership to develop integrated applications for practical, real-world needs.
 
 ## Connecting technology to real-world solutions
 
